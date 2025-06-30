@@ -42,11 +42,23 @@
 ## 📬 Reach Me
 
 <p align="center">
-  <a href="mailto:faizan.amer.390@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/faizan-amir-88875a352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/iamfaizanamir"><img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://stackvision.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:faizan.amer.390@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/faizan-amir-88875a352/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/iamfaizanamir" target="_blank">
+    <img alt="Twitter X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://stackvision.netlify.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
