@@ -38,27 +38,25 @@
 </p>
 
 ---
-
 ## 📬 Reach Me
 
 <p align="center">
   <a href="mailto:faizan.amer.390@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/faizan-amir-88875a352/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://x.com/iamfaizanamir" target="_blank">
-    <img alt="Twitter X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_X_icon.svg" alt="X" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://stackvision.netlify.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
