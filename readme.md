@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Amir</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faizanamer123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,38 +7,34 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Full Stack Developer focused on **building scalable web and mobile apps**.
-- 🌱 Currently learning **cloud infrastructure, system design, and backend optimization**.
-- 👨‍💻 Check out my work at [GitHub](https://github.com/faizanamer123) and [Portfolio](https://stackvision.netlify.app).
-- 💡 Tech Stack: **JavaScript, React, Node.js, Express, Tailwind CSS, MongoDB, MySQL, Firebase, C++, Java, Python** and more.
-- 📫 Contact me at **faizan.amer.390@gmail.com**.
-- 💼 Open to roles in **Software Engineering, Full Stack Development, Backend Development**.
+### 🔥 About Me
+- 🔭 I’m working on **Web Development, App Development, and Backend APIs.**
+- 🌱 Currently improving my skills in **Cloud Computing, Backend Optimization, and System Design.**
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://stackvision.netlify.app)
+- 📫 Contact me at **faizan.amer.390@gmail.com**
+- 💡 Open to **Full Stack Development | Backend Engineering | Software Engineer Roles.**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,express,nodejs,mongodb,mysql,firebase,java,cpp,python,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mysql,firebase,java,cpp,python,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanamer123&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=faizanamer123&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanamer123&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanamer123&show_icons=true&theme=radical" height="180"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=faizanamer123&theme=radical" height="180"/>
 </p>
 
 ---
-## 📬 Reach Me
+
+### 📲 Connect with Me
 
 <p align="center">
   <a href="mailto:faizan.amer.390@gmail.com" target="_blank">
@@ -61,5 +57,5 @@
 ---
 
 <p align="center">
-  <b>"Turning ideas into digital solutions. Let’s build something awesome."</b> 🚀
+  🚀 <b>“Turning Ideas into Reality through Code.”</b>
 </p>
